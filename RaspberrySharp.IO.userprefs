@@ -1,10 +1,34 @@
-﻿<Properties StartupItem="Tests/Test.Components.Ssd1306/Test.Components.Ssd1306.csproj">
+﻿<Properties StartupItem="Tests\Test.Components.Ssd1306\Test.Components.Ssd1306.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Tests/Test.Components.Ssd1306/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Raspberry.IO.Components\RTC\DS1337\Ds1337Connection.cs">
     <Files>
-      <File FileName="Tests/Test.Gpio.Chaser/Program.cs" Line="15" Column="39" />
-      <File FileName="Tests/Test.Components.Ssd1306/Program.cs" Line="1" Column="1" />
+      <File FileName="Raspberry.IO.Components\Displays\Ssd1306\Ssd1306Connection.cs" Line="4" Column="32" />
+      <File FileName="Raspberry.IO.Components\RTC\DS1337\Ds1337Connection.cs" Line="206" Column="3" />
+      <File FileName="Raspberry.IO.Components\Displays\Ssd1306\Command.cs" Line="7" Column="8" />
+      <File FileName="Raspberry.IO.Components\RTC\DS1337\Command.cs" Line="55" Column="45" />
+      <File FileName="Raspberry.IO.Components\RTC\DS1337\IDs1337Connection.cs" Line="13" Column="32" />
     </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="RaspberrySharp.IO" expanded="True">
+            <Node name="Solution Items" expanded="True">
+              <Node name="Tests" expanded="True">
+                <Node name="Test.Gpio.HCSR04" expanded="True" />
+              </Node>
+            </Node>
+            <Node name="Raspberry.IO.Components" expanded="True">
+              <Node name="RTC" expanded="True">
+                <Node name="DS1337" expanded="True">
+                  <Node name="Ds1337Connection.cs" selected="True" />
+                </Node>
+              </Node>
+              <Node name="Sensors" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
